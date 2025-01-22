@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vrlmj4q1d-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/vrlmj4q1d-dotnet-basic
